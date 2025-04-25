@@ -25,7 +25,7 @@ _(Aquí puedes insertar una imagen de la app si deseas)_
 ## ⚙️ Requisitos
 
 - Python 3.8 o superior
-- Windows (actualmente soportado y probado en Windows 11)
+- Windows (actualmente soportado y probado en Windows 10 y 11)
 - Ejecutables: `yt-dlp.exe` y `ffmpeg.exe` deben estar en la misma carpeta que el ejecutable o empaquetados con PyInstaller.
 
 ---
@@ -37,6 +37,7 @@ _(Aquí puedes insertar una imagen de la app si deseas)_
    ```bash
    git clone https://github.com/dunp3r/urDownload.git
    cd urDownload
+   python3 main.py
 
 
 
@@ -55,3 +56,8 @@ Este programa incluye los siguientes ejecutables redistribuidos:
 Consulta el archivo `THIRD_PARTY.txt` para detalles completos de las licencias de estos componentes.
 
 Consulta [ATTRIBUTION.md](ATTRIBUTION.md) para créditos de terceros.
+
+---
+<p align="center">Made with 💚 by dunp3r - 2025</p>
+
+
