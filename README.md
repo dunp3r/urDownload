@@ -18,7 +18,7 @@
 
 ## 📸 Capturas
 
-![Vista previa de urDownload](assets/cap.png)
+![Vista previa de urDownload](assets/capture.png)
 ---
 
 ## ⚙️ Requisitos
