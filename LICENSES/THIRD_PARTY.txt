@@ -1,0 +1,13 @@
+Componentes de terceros incluidos en este software:
+
+1. ffmpeg
+   - Sitio web: https://ffmpeg.org/
+   - Licencia: GNU General Public License v3.0 (GPLv3)
+   - Este ejecutable se redistribuye conforme a los términos de la GPLv3.
+   - Fuente del binario: https://www.gyan.dev/ffmpeg/builds/ 
+
+2. yt-dlp
+   - Sitio web: https://github.com/yt-dlp/yt-dlp
+   - Licencia: MIT License
+   - Este ejecutable se redistribuye conforme a los términos de la licencia MIT.
+   - Fuente del binario: https://github.com/yt-dlp/yt-dlp/releases
