@@ -18,8 +18,7 @@
 
 ## 📸 Capturas
 
-_(Aquí puedes insertar una imagen de la app si deseas)_
-
+![Vista previa de urDownload](assets/cap.png)
 ---
 
 ## ⚙️ Requisitos
