@@ -9,10 +9,16 @@
 </p>
 
 
-
 **urDownload** es una aplicación de escritorio desarrollada en Python con `tkinter` y `yt-dlp` que permite descargar videos de YouTube con una interfaz amigable, moderna y sin complicaciones.
 
 > 🚀 Rápido. 🎯 Preciso. 🧼 Limpio.
+---
+<p align="center">
+  <a href="https://github.com/dunp3r/urDownload/releases/latest">
+    <img src="https://img.shields.io/badge/Descargar-urDownload-blue?style=for-the-badge&logo=github" alt="Descargar urDownload" />
+  </a>
+</p>
+
 
 ---
 
