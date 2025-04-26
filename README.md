@@ -30,17 +30,6 @@
 
 ---
 
-## 📦 Instalación y uso
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/dunp3r/urDownload.git
-   cd urDownload
-   python3 main.py
-
-
-
 ## 🛡️ Licencia
 
 Este software está licenciado bajo la Licencia Pública General GNU, versión 3 (GPLv3).  
