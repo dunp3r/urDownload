@@ -1,5 +1,4 @@
 *.py linguist-detectable=true
 *.tex linguist-detectable=false
 *.exe linguist-detectable=false
-*.txt linguist-detectable=false
 LICENSE linguist-detectable=false
