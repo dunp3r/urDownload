@@ -1,4 +1,4 @@
-<h1 align="center">📥 urDownload</h1>
+<h1 align="center"><img src="https://github.com/dunp3r/urDownload/blob/master/assets/you_icon.ico"/> urDownload</h1>
 
 <p align="center">
 	<a href="https://github.com/dunp3r/urDownload/releases"><img src="https://img.shields.io/github/v/release/dunp3r/urDownload?style=flat-square&include_prereleases&label=version" /></a>
