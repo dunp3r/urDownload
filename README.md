@@ -1,21 +1,11 @@
 <h1 align="center">📥 urDownload</h1>
 
 <p align="center">
-	<a href="https://github.com/dunp3r/urDownload/releases">
-		<img src="https://img.shields.io/github/v/release/dunp3r/urDownload?style=flat-square&include_prereleases&label=version" />
-	</a>
-	<a href="https://github.com/dunp3r/urDownload/releases">
-		<img src="https://img.shields.io/github/downloads/dunp3r/urDownload/total.svg?style=flat-square" />
-	</a>
-	<a href="https://github.com/dunp3r/urDownload/issues">
-		<img src="https://img.shields.io/github/issues-raw/dunp3r/urDownload.svg?style=flat-square&label=issues" />
-	</a>
-	<a href="https://github.com/dunp3r/urDownload/graphs/contributors">
-		<img src="https://img.shields.io/github/contributors/dunp3r/urDownload?style=flat-square" />
-	</a>
-	<a href="https://github.com/dunp3r/urDownload/blob/main/LICENSE">
-		<img src="https://img.shields.io/github/license/dunp3r/urDownload?style=flat-square" />
-	</a>
+	<a href="https://github.com/dunp3r/urDownload/releases"><img src="https://img.shields.io/github/v/release/dunp3r/urDownload?style=flat-square&include_prereleases&label=version" /></a>
+	<a href="https://github.com/dunp3r/urDownload/releases"><img src="https://img.shields.io/github/downloads/dunp3r/urDownload/total.svg?style=flat-square" /></a>
+	<a href="https://github.com/dunp3r/urDownload/issues"><img src="https://img.shields.io/github/issues-raw/dunp3r/urDownload.svg?style=flat-square&label=issues" /></a>
+	<a href="https://github.com/dunp3r/urDownload/graphs/contributors"><img src="https://img.shields.io/github/contributors/dunp3r/urDownload?style=flat-square" /></a>
+	<a href="https://github.com/dunp3r/urDownload/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dunp3r/urDownload?style=flat-square" /></a>
 </p>
 
 
