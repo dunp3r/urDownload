@@ -62,6 +62,11 @@ Consulta el archivo `THIRD_PARTY.txt` para detalles completos de las licencias d
 Consulta [ATTRIBUTION.md](ATTRIBUTION.md) para créditos de terceros.
 
 ---
+## ⚠️ Aviso sobre Falsos Positivos en Antivirus - VirusTotal
+Algunos antivirus pueden marcar la aplicación urDownload como maliciosa o sospechosa.
+Esto es un falso positivo —no contiene malware, spyware ni ningún tipo de código malicioso.
+
+
 <p align="center">Made with 💚 by dunp3r - 2025</p>
 
 
