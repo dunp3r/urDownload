@@ -66,6 +66,7 @@ Consulta [ATTRIBUTION.md](ATTRIBUTION.md) para créditos de terceros.
 Algunos antivirus pueden marcar la aplicación urDownload como maliciosa o sospechosa.
 Esto es un falso positivo —no contiene malware, spyware ni ningún tipo de código malicioso.
 
+<img src="https://github.com/dunp3r/urDownload/blob/master/assets/false.png" />
 
 <p align="center">Made with 💚 by dunp3r - 2025</p>
 
